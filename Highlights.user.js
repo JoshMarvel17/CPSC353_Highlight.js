@@ -17,7 +17,7 @@
 var links = document.querySelectorAll(' a'),
 i, href, anchortext;
 
-//run a loop for how many links i grabbed.
+//run a loop for how many links it grabbed.
 for(i = 0; i < links.length; i++) {
 
 	//get the href link
@@ -33,7 +33,7 @@ for(i = 0; i < links.length; i++) {
   href2 = href.substring(0, href.indexOf("com") + 'com'.length);
 
   //if the href doesn't match the text and it's not a url make yellow
-  if(anchortext2 !== "https"){
+  if(anchortext2 !== "https" && anchortext !== href2){
 	links[i].style.backgroundColor = 'yellow';
   }
   //if the href matches the anchortext make green.
