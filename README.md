@@ -14,5 +14,5 @@ The point of this userscript is to check for phishing by checking the href value
 
 Tapermonkey was very interesting to learn, however I couldn't get the script running. And wasn't sure if I was supposed to run it on any site or run it locally.  Not sure if it's because it's a downloaded pdf file.
 
-I however used jsfiddle.net to run the code, here...  https://jsfiddle.net/tLcn7fee/2/
+I however used jsfiddle.net to run the code, here...  https://jsfiddle.net/tLcn7fee/4/
 
