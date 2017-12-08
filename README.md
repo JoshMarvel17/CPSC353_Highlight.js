@@ -1,6 +1,6 @@
 # CPSC353_Highlight.js
 
-## This project is for CPSC 353.
+## This project is for CPSC 353 Intro To Security
 
 First want to say how much I enjoyed this project,  I really struggled with the first project and was pretty sad about that.  So feeling much better about this one.  
 
